@@ -1,3 +1,5 @@
+[![Nuget Publish](https://github.com/csharp-opensource/ConsoleColorsExtension/actions/workflows/nugetPublish.yml/badge.svg)](https://github.com/csharp-opensource/ConsoleColorsExtension/actions/workflows/nugetPublish.yml)
+
 # Install
 
 ```bash
@@ -36,3 +38,5 @@ public static void Main(string[] args)
     Console.WriteLine("you can merge foreground  color with background color".Black().YellowBg());
 }
 ```
+
+# https://www.nuget.org/packages/CSharpExtensions.OpenSource.ConsoleColors/
